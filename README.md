@@ -2,7 +2,7 @@
 
 This repository is focused on those who are starting their Data Science Journey and want to start learning Machine Learning Algorithms.
 
-**IMPORTANT**
+:warning: **IMPORTANT** :warning:
 
 Here we will only cover the BASICS of some Machine Learning Algorithms such as:
 
