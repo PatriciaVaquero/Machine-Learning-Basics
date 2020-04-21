@@ -1,4 +1,4 @@
-# Machine-Learning-Basics
+## :pushpin: Machine-Learning-Basics
 
 This repository is focused on those who are starting their Data Science Journey and want to start learning Machine Learning Algorithms.
 
@@ -25,4 +25,4 @@ We will use the following libraries:
 - Sklearn.
 - Seaborn.
 
-_ENJOY CODING!_
+_ENJOY CODING!_ :wink:
